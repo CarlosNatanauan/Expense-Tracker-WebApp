@@ -43,4 +43,4 @@ The project is built using ASP.NET Core MVC. Here is an overview of the structur
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/CarlosNatanauan/Expense-Tracker-WebApp.git)
+   git clone https://github.com/CarlosNatanauan/Expense-Tracker-WebApp.git
